@@ -32,7 +32,7 @@ interface User {
   
   // Print the array of user objects
   console.log(users);
-  console.log(users);
-  console.log(users);
+  console.log("my chnaaages");
+  console.log("users");
   console.log(users);
   
