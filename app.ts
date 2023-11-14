@@ -19,7 +19,7 @@ interface User {
     return {
       id: generateRandomId(),
       name: name,
-      age: age,
+      age: age,  
       email: email,
     };
   }
